@@ -1,1 +1,1 @@
-# Notepad-tkinter
+# NotepadGUI-tkinter
